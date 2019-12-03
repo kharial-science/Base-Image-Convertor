@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Base-Image-Convertor/static/css/main.67fedba7.chunk.css",
-    "main.js": "/Base-Image-Convertor/static/js/main.b8c61093.chunk.js",
-    "main.js.map": "/Base-Image-Convertor/static/js/main.b8c61093.chunk.js.map",
-    "runtime~main.js": "/Base-Image-Convertor/static/js/runtime~main.9c32c62f.js",
-    "runtime~main.js.map": "/Base-Image-Convertor/static/js/runtime~main.9c32c62f.js.map",
-    "static/js/2.1620ba49.chunk.js": "/Base-Image-Convertor/static/js/2.1620ba49.chunk.js",
-    "static/js/2.1620ba49.chunk.js.map": "/Base-Image-Convertor/static/js/2.1620ba49.chunk.js.map",
-    "index.html": "/Base-Image-Convertor/index.html",
-    "precache-manifest.c2b01bdc064b709489a3d6c96650ff66.js": "/Base-Image-Convertor/precache-manifest.c2b01bdc064b709489a3d6c96650ff66.js",
-    "service-worker.js": "/Base-Image-Convertor/service-worker.js",
-    "static/css/main.67fedba7.chunk.css.map": "/Base-Image-Convertor/static/css/main.67fedba7.chunk.css.map"
+    "main.css": "/Binary-Number-Image/static/css/main.1a0eb64c.chunk.css",
+    "main.js": "/Binary-Number-Image/static/js/main.31697197.chunk.js",
+    "main.js.map": "/Binary-Number-Image/static/js/main.31697197.chunk.js.map",
+    "runtime~main.js": "/Binary-Number-Image/static/js/runtime~main.e459eede.js",
+    "runtime~main.js.map": "/Binary-Number-Image/static/js/runtime~main.e459eede.js.map",
+    "static/js/2.8af3b264.chunk.js": "/Binary-Number-Image/static/js/2.8af3b264.chunk.js",
+    "static/js/2.8af3b264.chunk.js.map": "/Binary-Number-Image/static/js/2.8af3b264.chunk.js.map",
+    "index.html": "/Binary-Number-Image/index.html",
+    "precache-manifest.12bddfdb3ccc65c0f8a61201b4514b2f.js": "/Binary-Number-Image/precache-manifest.12bddfdb3ccc65c0f8a61201b4514b2f.js",
+    "service-worker.js": "/Binary-Number-Image/service-worker.js",
+    "static/css/main.1a0eb64c.chunk.css.map": "/Binary-Number-Image/static/css/main.1a0eb64c.chunk.css.map"
   }
 }
